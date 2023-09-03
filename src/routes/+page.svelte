@@ -3,8 +3,8 @@
 </script>
 
 <button type="button" on:click={() => (count += 1)} class="btn btn-primary"
-    >Augment</button
+    >Testing1</button
 >
 <button type="button" on:click={() => (count += 1)} class="btn btn-success"
-    >Augment</button
+    >Testing2</button
 >

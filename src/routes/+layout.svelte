@@ -6,7 +6,9 @@
     <nav>
         <ul class="flex justify-center gap-3">
             <li><a href="/">Home</a></li>
-            <li><a href="/layout">layout</a></li>
+            <li><a href="/layout">Layout</a></li>
+            <li><a href="/chart">Chart</a></li>
+            <li><a href="/map">Map</a></li>
         </ul>
     </nav>
 </div>
